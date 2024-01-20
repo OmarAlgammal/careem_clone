@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54234456855",
+    "project_id": "careem-clone-app",
+    "storage_bucket": "careem-clone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54234456855:android:bbb34045a6a644ed2f0d52",
+        "android_client_info": {
+          "package_name": "com.example.careem_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54234456855-6obt6sumo6laqiie2ev0a1v0h1bjgq36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG6AL7tQ5leBgEIOog_7VCxOmUUFxMC8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54234456855-6obt6sumo6laqiie2ev0a1v0h1bjgq36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

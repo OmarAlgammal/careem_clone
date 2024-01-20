@@ -1,0 +1,4 @@
+enum CareemElevatedButtonStyle {
+  primary,
+  secondary,
+}
